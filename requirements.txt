@@ -1,4 +1,0 @@
-markdown==3.4.1
-subprocess==3.2.8
-marker-pdf
-torch==1.13.1
