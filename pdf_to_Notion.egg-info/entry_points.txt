@@ -1,0 +1,2 @@
+[console_scripts]
+pdf-to-notion = pdf_to_notion.main:Main
